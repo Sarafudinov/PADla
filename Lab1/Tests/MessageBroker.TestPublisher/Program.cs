@@ -1,0 +1,38 @@
+﻿using System;
+using System.Threading.Tasks;
+using MessageBroker.Client.Grpc;
+using MessageBroker.Client.Socket;
+using MessageBroker.Tests.Common;
+
+namespace MessageBroker.TestPublisher {
+    class Program {
+        static async Task Main(string[] args) {
+            //using var client = new SocketMessageBrokerClient("127.0.0.1", 9876);
+            using var client = new GrpcMessageBrokerClient("127.0.0.1", 9876);
+            int globalId = 0;
+
+            while (globalId != 10)
+            {
+                await client.Publish(new Message
+                {
+                    Id = globalId++,
+                    Text = Console.ReadLine(),
+                    Time = DateTime.Now
+                });
+            }
+
+            //while (globalId != 10)
+            //{
+            //    await client.Publish(new Message
+            //    {
+            //        Id = globalId++,
+            //        Text = "hello world",
+            //        Time = DateTime.Now
+            //    });
+            //}
+
+
+            await client.Disconnect();
+        }
+    }
+}
