@@ -1,0 +1,2 @@
+obj\Release\netcoreapp3.1\Protos/Publish.cs \
+obj\Release\netcoreapp3.1\Protos/PublishGrpc.cs: Protos/publish.proto

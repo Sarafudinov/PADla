@@ -1,0 +1,73 @@
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.AssemblyReference.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\staticwebassets\Receiver.StaticWebAssets.Manifest.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\staticwebassets\Receiver.StaticWebAssets.xml
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\scopedcss\bundle\Receiver.styles.css
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.RazorTargetAssemblyInfo.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Receiver\obj\Debug\netcoreapp3.1\Receiver.genruntimeconfig.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Receiver.StaticWebAssets.xml
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.AssemblyReference.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CoreCompileInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\staticwebassets\Receiver.StaticWebAssets.Manifest.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.RazorTargetAssemblyInfo.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Receiver\obj\Debug\netcoreapp3.1\Receiver.genruntimeconfig.cache

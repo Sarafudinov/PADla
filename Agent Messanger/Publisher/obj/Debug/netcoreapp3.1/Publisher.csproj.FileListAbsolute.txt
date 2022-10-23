@@ -1,0 +1,36 @@
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Common.dll
+D:\Agent Messanger\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.AssemblyReference.cache
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+D:\Agent Messanger\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.AssemblyReference.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+D:\Agent Messanger\Agent Messanger\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\Agent Messanger\Agent Messanger\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\Agent Messanger\Agent Messanger\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Agent Messanger\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agent Messanger\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Agent Messanger\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Agent Messanger\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\Agent Messanger\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\Agent Messanger\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Common\obj\Debug\netcoreapp3.1\Common.pdb

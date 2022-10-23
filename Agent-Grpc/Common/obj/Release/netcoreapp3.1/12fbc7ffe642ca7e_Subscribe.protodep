@@ -1,0 +1,2 @@
+obj\Release\netcoreapp3.1\Protos/Subscribe.cs \
+obj\Release\netcoreapp3.1\Protos/SubscribeGrpc.cs: Protos/Subscribe.proto

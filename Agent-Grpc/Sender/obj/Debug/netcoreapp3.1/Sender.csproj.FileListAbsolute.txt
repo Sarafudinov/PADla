@@ -1,0 +1,60 @@
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Google.ProtocolBuffers.Serialization.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Google.ProtocolBuffers.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.AssemblyReference.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Google.ProtocolBuffers.Serialization.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Google.ProtocolBuffers.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.AssemblyReference.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache

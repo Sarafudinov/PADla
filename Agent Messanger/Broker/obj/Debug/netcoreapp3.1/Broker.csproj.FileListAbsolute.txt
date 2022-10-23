@@ -1,0 +1,36 @@
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Common.dll
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.AssemblyReference.cache
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+D:\Agent Messanger\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache
+D:\Agent Messanger\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.AssemblyReference.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+D:\Univer\4.1\paaad\PAD\Agent Messanger\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache

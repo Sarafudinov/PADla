@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1L78Zf4xvIuYyQZ7N6U5UHDfq2z79niZYZF5wbO/7rReB92D10Ua694W5p/IFgQGnGIYD8C/dXh0rUa5A/8JtA==",
+  "success": true,
+  "projectFilePath": "D:\\Univer\\4.1\\paaad\\PAD\\Agent Messanger\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nsara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

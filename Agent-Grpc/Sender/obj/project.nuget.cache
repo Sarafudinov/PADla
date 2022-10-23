@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xp18QdFBCWzp/aLhQFDyGpseddOfpzn72WEZvG3U4aGoAcE4cLn77RUrea1k7Caf1d/Hv5BDg9E3svBDbY0AdQ==",
+  "success": true,
+  "projectFilePath": "D:\\Univer\\4.1\\paaad\\PAD\\Agent-Grpc\\Sender\\Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nsara\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\google.protocolbuffers\\2.4.1.555\\google.protocolbuffers.2.4.1.555.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\grpc\\2.40.0\\grpc.2.40.0.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\grpc.core\\2.40.0\\grpc.core.2.40.0.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\grpc.core.api\\2.40.0\\grpc.core.api.2.40.0.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\grpc.net.client\\2.32.0\\grpc.net.client.2.32.0.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\grpc.net.common\\2.32.0\\grpc.net.common.2.32.0.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\nsara\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Google.ProtocolBuffers 2.4.1.555\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Google.ProtocolBuffers",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

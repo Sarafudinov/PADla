@@ -1,0 +1,30 @@
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc-master (grib)\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Anatoly\Desktop\PAD\1LAB\LisAndrew\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\Univer\4.1\paaad\PAD\Agent-Grpc\Common\obj\Debug\netcoreapp3.1\Common.pdb
